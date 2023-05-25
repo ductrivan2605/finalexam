@@ -1,3 +1,16 @@
+//  RMIT University Vietnam
+
+  // Course: COSC2430 Web Programming
+
+  // Semester: 2023A
+
+  // Assessment: Assignment 3
+
+  // Author: Your names (e.g. Nguyen Van Minh)
+
+  // ID: s3978223
+
+  // Acknowledgement: Acknowledge the resources that you use here.
 const { mongoose } = require("./mongoose");
 
 // Define the meal schema

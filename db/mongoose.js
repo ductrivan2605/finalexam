@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 // MongoDB Atlas connection string, replace this string with your own if needed
 const mongoUrl =
-  "mongodb+srv://tri:e9ewNB2QBoId5SEa@fullstackwebproject.yauzkwr.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://cosc2430:yyL2BLIAcrU7PlmV@cluster0.a6lm4ra.mongodb.net/?retryWrites=true&w=majority";
 // Connect to MongoDB Atlas
 mongoose
   .connect(mongoUrl, { useNewUrlParser: true })

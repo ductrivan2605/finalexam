@@ -1,3 +1,16 @@
+//  RMIT University Vietnam
+
+//   Course: COSC2430 Web Programming
+
+//   Semester: 2023A
+
+//   Assessment: Assignment 3
+
+//   Author: Your names (e.g. Nguyen Van Minh)
+
+//   ID: Your student ids (e.g. s1234567)
+
+// Acknowledgement: Acknowledge the resources that you use here.
 const express = require("express");
 const app = express();
 const planSchema = require("./db/plan.model")
